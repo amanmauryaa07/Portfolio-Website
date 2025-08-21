@@ -1,0 +1,2 @@
+# Portfolio Website
+Personal Portfolio Website built using HTML5 and CSS3 to showcase my skills, projects, and resume. Fully responsive design with clean, modular code structure. Highlights include a dynamic project section, consistent design system, and accessible layout. Designed to leave a lasting impression on recruiters and hiring managers by reflecting both my technical skills and design sensibility.
